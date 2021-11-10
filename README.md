@@ -13,11 +13,11 @@ docker-compose up
 #### To show list of all workers in DB
 >http://0.0.0.0:3003/workers/
 
-####To show list of all projects in DB
+#### To show list of all projects in DB
 >http://0.0.0.0:3003/projects/
 
-####To start log work go to: 
+#### To start log work go to: 
 >http://0.0.0.0:3003/start/[WORKER_ID]/[PROJECT_ID]
 
-####To end log work go to:
+#### To end log work go to:
 >http://0.0.0.0:3003/end/[WORKER_ID]/[PROJECT_ID]
